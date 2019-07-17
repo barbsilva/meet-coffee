@@ -1,0 +1,25 @@
+.btn {
+  font-family: $PT-Mono;
+  font-size: $medium;
+}
+
+.nav__btn--iniciar {
+  background-color: $white;
+  color: $spanish-gray;
+
+  &:hover {
+    background-color: $white;
+    color: $isabelline;
+    border-color: $isabelline;
+  }
+}
+
+.nav__btn--registrate {
+  background-color: $shiny-shamrock;
+  color: $white;
+
+  &:hover {
+    background-color: $turquoise-green;
+    color: $spanish-gray;
+  }
+}

@@ -1,0 +1,33 @@
+.section__father{
+  position: relative;
+}
+
+.section__rectangulo--blue{
+  position: absolute;
+  width: 470px;
+  height: 230px;
+  background-color: $blue-de-france;
+  right: 64%;
+  top: 0%;
+}
+
+.section__text{
+  margin-right: 40%;
+}
+
+.section__maps{
+  position: absolute;
+  top: 16%;
+  right: 80%;
+}
+
+.section__coffee{
+  position: absolute;
+  z-index: 3;
+  left: 30%;
+}
+
+.section__coffee_machine{
+  position: absolute;
+  left: 35%;
+}
